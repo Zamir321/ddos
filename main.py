@@ -8,7 +8,7 @@ from billa import TOKEN
 from datetime import datetime
 
 # Admins and expiry setup
-ADMIN_IDS = [6073143283, 304934, 23897]
+ADMIN_IDS = [1931465158, 6945183108, 23897]
 EXPIRY_DATE = datetime(2024, 12, 28)
 
 # Paths and global variables
